@@ -1,3 +1,7 @@
+### 1.0.1
+
+- parse5 5.1
+
 # 1.0.0
 
 - Add support for parsing attributes with namespaces (e.g. embedded SVG)
